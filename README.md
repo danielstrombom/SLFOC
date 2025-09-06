@@ -2,6 +2,7 @@
 Code for Strömbom et al. 2025. Effective resource allocation to combat invasions of the spotted lanternfly and similar pests. Mathematics XXXX.
 
 INSTRUCTIONS
+
 Download all three m-files and make sure they are accessible by MATLAB.
 
 To re-create Figure 1 in the paper use the plotFig1.m function. The specific command plotFig1(0.1,0.15,0.35,0.5,10) will produce the four-panel figure. The curves are identical, only some formatting details will differ.
