@@ -1,5 +1,5 @@
 # SLFOC
-Code for Strömbom et al. 2025. Effective resource allocation to combat invasions of the spotted lanternfly and similar pests. Mathematics XXXX.
+Code for Strömbom et al. 2025. Effective resource allocation to combat invasions of the spotted lanternfly and similar pests. Mathematics 2025, 13(18), 2952; https://doi.org/10.3390/math13182952
 
 INSTRUCTIONS
 
